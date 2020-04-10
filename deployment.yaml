@@ -28,7 +28,7 @@ spec:
         app: petclinic
     spec:
       containers:
-      - image: harbor.lab.khadilkar.net/petclinic/spring-petclinic:b32.20200410.131308
+      - image: harbor.lab.khadilkar.net/petclinic/spring-petclinic:b35.20200410.153827
         imagePullPolicy: Always
         name: spring-petclinic
         resources: {}
